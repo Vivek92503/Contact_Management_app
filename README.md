@@ -41,4 +41,16 @@ This app uses the following APIs to fetch data:
 # Screenshots
 ## Contact Page:
 
-<img src="./Contact_Management_App/Screenshot/Screenshot1.png"/>
+![Screenshot1](https://github.com/Vivek92503/Contact_Management_app/assets/156999897/600164aa-7bdd-4675-91c7-a29e364b898f)
+</br>
+
+![screenshot2](https://github.com/Vivek92503/Contact_Management_app/assets/156999897/7f9c56bf-a097-4b6e-969c-66f6cea9e501)
+</br>
+
+##  Charts and Maps:
+
+![screenshot3](https://github.com/Vivek92503/Contact_Management_app/assets/156999897/bcea3b0f-f295-48cc-91bd-db47b092d45f)
+</br>
+
+![screenshot4](https://github.com/Vivek92503/Contact_Management_app/assets/156999897/6648a9f2-a06a-4d14-b9aa-41215aabb0eb)
+
